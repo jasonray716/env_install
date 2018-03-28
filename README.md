@@ -9,3 +9,5 @@ It was always time consuming and took time from me.
 So I have written the script for the installtion of environment.
 
 The script will install Java Runtime environment, PHP 5.6, Node.js, PostgreSQL, MySQL, Nginx, Git and Python environment such as Pip and virtualenv.
+
+Enjoy!
